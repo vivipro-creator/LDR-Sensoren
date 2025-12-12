@@ -1,5 +1,5 @@
-//% color=#ffcc00 icon="\uf185" block="LDR-Sensoren"
-namespace LDR-Sensoren {
+//% color=#ffcc00 icon="\uf185" block="LDR_Sensoren"
+namespace LDR_Sensoren {
 
     //% blockId="ldr_read_right" block="LDR rechts (P1)" weight=90
     export function readRight(): number {
