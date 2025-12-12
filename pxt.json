@@ -1,5 +1,5 @@
 {
-  "name": "ldr-sensoren",
+  "name": "LDR_Sensoren",
   "version": "0.0.1",
   "description": "Einfache Blöcke für zwei LDR-Lichtsensoren an P0 und P1 am Calliope mini.",
   "license": "CC0-1.0",
