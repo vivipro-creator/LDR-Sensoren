@@ -1,4 +1,4 @@
-//% color=#ffcc00 icon="\uf185" block="LDR Sensoren"
+//% color=#ffcc00 icon="\uf185" block="LDRSensoren"
 namespace LDRSensoren {
 
     //% blockId="ldr_read_right" block="LDR rechts (P1)" weight=90
